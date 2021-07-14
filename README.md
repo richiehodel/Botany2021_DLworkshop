@@ -10,3 +10,7 @@ There are six sessions, four of which will be hands-on. There is a separate dire
 5. Model training and validation
 6. Open discussion: applications of deep learning in participants' research
 
+## Dataset
+
+The image dataset for use in this workshop can be downloaded here: https://figshare.com/s/26890b409bb01c747551
+
