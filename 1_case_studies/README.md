@@ -6,33 +6,33 @@
 ## 2. Digitization of natural history specimens
 in US:  iDigBio
 	
-	>128 M records
+   >128 M records
 	
-	>40M media records
+   >40M media records
 
 
 ## 3. Herbarium specimens
 
-    400,000,000 worldwide in 3400 herbaria
+   400,000,000 worldwide in 3400 herbaria
 
-    In iDigBio, >30M images of specimens
+   In iDigBio, >30M images of specimens
 
-    Excellent resource for many types of research
+   Excellent resource for many types of research
  
 
 ## 4. Examples of Deep Learning Using Herbarium Specimens
 
-    Species ID
+   Species ID
 
-    Phenology
+   Phenology
+ 
+   Leaf Analysis
 
-    Leaf Analysis
+   Morphology
 
-    Morphology
+   Herbivory
 
-    Herbivory
-
-    See special issue of Applications in Plant Sciences
+   See special issue of Applications in Plant Sciences
 
 
 
