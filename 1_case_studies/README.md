@@ -9,7 +9,7 @@
    
    iDigBio: 
    
-	>128 M records 
+	>128M records 
 	>40M media records
 
 
