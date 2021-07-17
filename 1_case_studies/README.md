@@ -7,8 +7,8 @@
 
    * In US: 
       * iDigBio:	
-        * > 128 M records 
-        * > 40M media records
+       * > 128 M records 
+       * > 40M media records
 
 
 ## 3. Herbarium specimens
@@ -32,7 +32,7 @@
 
   * Herbivory
 
-   See special issue of Applications in Plant Sciences
+  * See special issue of Applications in Plant Sciences
 
 
 
