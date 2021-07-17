@@ -1,42 +1,40 @@
-#Case Studies: How are researchers using deep learning?
+# Case Studies: How are researchers using deep learning?
 
-##Examples Using Herbarium Specimens
-
- 
-
-##Digitization of natural history specimens
-
-            in US:  iDigBio
-
-                        >128 M records
-
-                        >40M media records
+## Examples Using Herbarium Specimens
 
  
 
-##Herbarium specimens
+## Digitization of natural history specimens
 
-            400,000,000 worldwide in 3400 herbaria
-
-            In iDigBio, >30M images of specimens
-
-            Excellent resource for many types of research
+### in US:  iDigBio
+	>128 M records
+	>40M media records
 
  
 
-##Examples of Deep Learning Using Herbarium Specimens
+## Herbarium specimens
 
-            Species ID
+    400,000,000 worldwide in 3400 herbaria
 
-            Phenology
+    In iDigBio, >30M images of specimens
 
-            Leaf Analysis
+    Excellent resource for many types of research
 
-            Morphology
+ 
 
-            Herbivory
+## Examples of Deep Learning Using Herbarium Specimens
 
-            See special issue of Applications in Plant Sciences
+    Species ID
+
+    Phenology
+
+    Leaf Analysis
+
+    Morphology
+
+    Herbivory
+
+    See special issue of Applications in Plant Sciences
 
 
 
