@@ -33,4 +33,4 @@ Workshop will be held from 9am - 5pm on Sunday, July 18th, 2021. Workshop attend
 ## Dataset
 
 The image dataset for use in this workshop can be downloaded here: https://figshare.com/s/26890b409bb01c747551
-
+The dataset is provided for your reference; however, you do not have to download the dataset to your local computer to participate in the hands-on portions of the workshop.
