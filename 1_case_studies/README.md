@@ -5,7 +5,9 @@
 
 ## 2. Digitization of natural history specimens
 
-    In US: iDigBio: 
+   In US: 
+   
+   iDigBio: 
 	>128 M records 
 	>40M media records
 
