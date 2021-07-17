@@ -4,11 +4,10 @@
 
 
 ## 2. Digitization of natural history specimens
-in US:  iDigBio
-	
-   >128 M records
-	
-   >40M media records
+
+In US: iDigBio: 
+	>128 M records 
+	>40M media records
 
 
 ## 3. Herbarium specimens
