@@ -7,8 +7,8 @@
 
    * In US: 
       * iDigBio:	
-       * More than 128 M records 
-       * More than 40M media records
+        * More than 128 M records 
+        * More than 40M media records
 
 
 ## 3. Herbarium specimens
