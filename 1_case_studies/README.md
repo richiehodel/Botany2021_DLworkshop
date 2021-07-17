@@ -7,16 +7,9 @@
 
    In US: iDigBio:	
    
-<<<<<<< HEAD
    More than 128 M records 
    
    More than 40M media records
-=======
-   iDigBio: 
-   
-	>128M records 
-	>40M media records
->>>>>>> 00b373382db826238755c926ef35d0435b3574d9
 
 
 ## 3. Herbarium specimens
