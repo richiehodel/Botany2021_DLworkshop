@@ -1,6 +1,6 @@
 # Botany Conference Data Processing for Deep Learning
 
-* This module includes a short slideshow about the considerations for processing herbarium sheet digital images for deep learning and a Jupyter notebook.
+* This module includes a short presentation about the considerations for processing herbarium sheet digital images for deep learning and a Jupyter notebook.
 
 
 * The Jupyer Notebook can be run directly in Colab:
