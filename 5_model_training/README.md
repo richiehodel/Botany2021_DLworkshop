@@ -1,6 +1,6 @@
 # Model training and validation 
 
-#### Expected learning outcome for participants: Users understand how to build a deep learning model and how to evaluate if their model is performing how they expect/want it to.
+### Expected learning outcome for participants: Users understand how to build a deep learning model and how to evaluate if their model is performing how they expect/want it to.
 
 ## 1. Loading data
 
