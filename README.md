@@ -17,7 +17,7 @@ Workshop will be held from 9am - 5pm on Sunday, July 18th, 2021. Workshop attend
 
 | Time in EDT | Topic |
 | --- | --- |
-| 9:00 - 9:20 | Introduction |
+| [9:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T130000&p1=263) - 9:20 | Introduction |
 | 9:20 - 9:50 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Pam Soltis) |
 | | 10 MINUTE BREAK |
 | 10:00 - 10:50 | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Mike Trizna) |
