@@ -76,7 +76,7 @@
 ### An original herbarium sheet
 
 
-![](https://i.imgur.com/WANW6WH.jpg)
+![](https://i.imgur.com/uvVqVrq.jpg)
 
 
 ---
