@@ -17,14 +17,14 @@
 
 ---
 
-### Mercury staining project
+### Mercury staining project training image
 
 ![](https://i.imgur.com/mRg9nGT.jpg)
 
 
 ---
 
-### Mercury staining project
+### Mercury staining project training image
 
 ![](https://i.imgur.com/PqcVlob.jpg)
 
@@ -37,10 +37,6 @@
 * Are you building a model with data from multiple institutions?
 
 * If so, there are invaribaly institution-specific, but NOT plant-specific attributes that a computer vision model can mistakenly use to classify images.
-
----
-
-### Important Considerations
 
 * Color bars, lighting, labels, barcodes, handwriting/typed text, stamps, etc. have the potential to produce a misleading model.
 
@@ -60,7 +56,7 @@
 
 ---
 
-### A segmented femur
+### A segmented femur (image from wikidata)
 
 ![](https://i.imgur.com/IkdrZuZ.png)
 
@@ -83,6 +79,7 @@
 ---
 
 ### An original herbarium sheet
+
 
 ![](https://i.imgur.com/FXH5r94.jpg)
 
