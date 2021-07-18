@@ -21,9 +21,9 @@
   * Number of epochs
 
   * How to group data
-  	*Training
-  	*Validation
-  	*Test
+  	* Training
+  	* Validation
+  	* Test
 
 
 
