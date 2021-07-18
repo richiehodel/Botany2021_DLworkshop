@@ -17,6 +17,21 @@
 
 ---
 
+### Mercury staining project
+
+![](https://i.imgur.com/mRg9nGT.jpg)
+
+
+---
+
+### Mercury staining project
+
+![](https://i.imgur.com/PqcVlob.jpg)
+
+* Schuettpelz et al., 2017, *Biodiversity Data Journal*:  https://doi.org/10.3897/BDJ.5.e21139
+
+---
+
 ### Important Considerations
 
 * Are you building a model with data from multiple institutions?
@@ -53,7 +68,7 @@
 
 * The SI Data Science Lab (datascience.si.edu) built a segmentation model for ferns that segments plant material from the background of herbarium sheets.
  
-* Paper in APPS (White et al., 2020): http://dx.doi.org/10.1002/aps3.11352
+* Paper in *APPS* (White et al., 2020): http://dx.doi.org/10.1002/aps3.11352
 
 * Code on GitHub: https://github.com/sidatasciencelab/fern_segmentation
 
