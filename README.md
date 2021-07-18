@@ -17,12 +17,12 @@ Workshop will be held from 9am - 5pm on Sunday, July 18th, 2021. Workshop attend
 
 | Time in EDT | Topic |
 | --- | --- |
-| [9:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T130000&p1=263) - 9:20 | Introduction |
-| 9:20 - 9:50 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Pam Soltis) |
+| [9:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T130000&p1=263) - [9:20](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T132000&p1=263) | Introduction |
+| [9:20](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T132000&p1=263) - 9:50 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Pam Soltis) |
 | | 10 MINUTE BREAK |
-| 10:00 - 10:50 | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Mike Trizna) |
+| [10:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T140000&p1=263) - [10:50](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T145000&p1=263) | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Mike Trizna) |
 | | 10 MINUTE BREAK |
-| 11:00 - 11:50 | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Erica Krimmel) |
+| [11:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T150000&p1=263) - [11:50](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T155000&p1=263) | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Erica Krimmel) |
 | | LUNCH |
 | 1:30 - 2:20 | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Rebecca Dikow) |
 | | 10 MINUTE BREAK |
