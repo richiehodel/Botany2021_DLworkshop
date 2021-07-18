@@ -24,11 +24,11 @@ Workshop will be held from 9am - 5pm on Sunday, July 18th, 2021. Workshop attend
 | | 10 MINUTE BREAK |
 | [11:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T150000&p1=263) - [11:50](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T155000&p1=263) | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Erica Krimmel) |
 | | LUNCH |
-| 1:30 - 2:20 | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Rebecca Dikow) |
+| [1:30](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T173000&p1=263) - [2:20](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T182000&p1=263) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Rebecca Dikow) |
 | | 10 MINUTE BREAK |
-| 2:30 - 3:20 | [Module 5:](5_model_training) Model training and validation (presenter: Richie Hodel) |
+| [2:30](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T183000&p1=263) - [3:20](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T192000&p1=263) | [Module 5:](5_model_training) Model training and validation (presenter: Richie Hodel) |
 | | 10 MINUTE BREAK |
-| 3:30 - 5:00 | [Module 6:](6_discussion) Open Discussion: How can deep learning be applied in your research? What key questions in plant research can be addressed via deep learning methods? |
+| [3:30](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T193000&p1=263) - [5:00](https://www.timeanddate.com/worldclock/converter.html?iso=20210718T210000&p1=263) | [Module 6:](6_discussion) Open Discussion: How can deep learning be applied in your research? What key questions in plant research can be addressed via deep learning methods? |
 
 ## Dataset
 
